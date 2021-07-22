@@ -1,0 +1,5 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/0c2b45e2-c420-433b-a736-4ce3c8afdfea/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/Driver-Dot-Hours-Service",
+    "appService.deploySubpath": ".",
+    "git.ignoreLimitWarning": true
+}
